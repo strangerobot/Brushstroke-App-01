@@ -1,8 +1,8 @@
 # Brushstroke App 01
  Generates vector paintings from Images
-![sample]("/images/rectanges_random.jpg")
+![sample](images/rectanges_random.jpg)
 
-![program]("images/screenshot.jpg") Windows build
+![program](images/screenshot.jpg) Windows build
 
 ## Dependencies
 1. [Processing](https://processing.org/)
@@ -24,4 +24,4 @@
  4. Saving might take a few minutes
  5. Results might be different from preview
 
-![sample]("https://github.com/strangerobot/Brushstroke-App-01/blob/master/images/circles.JPG?raw=true")
+![sample](https://github.com/strangerobot/Brushstroke-App-01/blob/master/images/circles.JPG?raw=true)
