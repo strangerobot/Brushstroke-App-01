@@ -2,7 +2,8 @@
  Generates vector paintings from Images
 ![sample](images/rectanges_random.jpg)
 
-![program](images/screenshot.jpg) Windows build
+![program](images/screenshot.jpg) 
+Windows build
 
 ## Dependencies
 1. [Processing](https://processing.org/)
