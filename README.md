@@ -3,9 +3,9 @@
  Needs latest version of Java, http://java.com/download
 
 ## Dependencies
-1. Processing 3
-2. Java 8
-3. GP4 for processing
+1. [Processing](https://processing.org/)
+2. [Java 8](http://java.com/download)
+3. [G4P for Processing](http://www.lagers.org.uk/g4p/download.html) Can be downloaded from within processing. Tools>Add Tool>Libraries
 
 ## Build
 1. Open the source code in processing from source folder
