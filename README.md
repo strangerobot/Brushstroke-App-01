@@ -5,7 +5,7 @@
 ![program](images/screenshot.jpg) 
 
 ## Download
-1. [For Windows 64 Bit](https://github.com/strangerobot/Brushstroke-App-01/blob/master/build/win64/Brushstrokes.windows64.zip?raw=true)
+1. [For Windows 64 Bit](https://github.com/strangerobot/Brushstroke-App-01/blob/master/build/win64/brushstrokes.windows64.zip?raw=true)
 
 
 ## Dependencies
